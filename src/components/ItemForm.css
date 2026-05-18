@@ -91,3 +91,9 @@ table button:last-child {
     background-color: red;
     color: white;
 }
+.error {
+    color: #e53935;
+    font-size: 12px;
+    margin-top: 4px;
+    font-weight: 500;
+}
